@@ -3,8 +3,8 @@ import React from 'react';
 const HomePage: React.FC = () => {
   return (
     <div className="page home-page">
-      <h1>Welcome to Speech Navigator</h1>
-      <p>This demo showcases a speech-to-page navigation system. Try saying something like:</p>
+      <h1>Welcome to AI Page Navigator</h1>
+      <p>This demo showcases a text as well as speech-to-page navigation system using natural language processing and AI. Try saying something like:</p>
       <ul>
         <li>"Take me to the about page"</li>
         <li>"I want to see the products"</li>

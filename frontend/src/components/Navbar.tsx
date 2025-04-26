@@ -9,7 +9,7 @@ const Navbar: React.FC = () => {
     <nav className="navbar">
       <div className="logo">
         <Link to="/">
-          <span className="logo-text">Speech Navigator</span>
+          <span className="logo-text">AI Page Navigator</span>
         </Link>
       </div>
       

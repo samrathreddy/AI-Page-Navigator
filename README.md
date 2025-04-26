@@ -122,7 +122,7 @@ backend/
 1. Clone the repository:
 
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/samrathreddy/AI-Page-Navigator
    ```
 
 2. Install backend dependencies:
