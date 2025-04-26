@@ -1,7 +1,7 @@
 import React, { useState, useRef, useEffect } from 'react';
 
 // Constants
-const API_URL = 'http://localhost:3001/api';
+const API_URL = process.env.REACT_APP_API_URL;
 
 interface SpeechToTextProps {
   onTranscriptReady: (transcript: string) => void;
